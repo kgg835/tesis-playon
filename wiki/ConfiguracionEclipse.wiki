@@ -21,6 +21,6 @@ Import: `Dropbox/Proyecto 2012/Code Formatter/Java_Code_Formatter-Increased_Line
 http://search.maven.org/
 
 ==Instalar Maven==
-  # Descomprimir *.zip en C:
-  # Agregar la ruta de la carpeta ../bin al PATH
-  # Abrir la consola y tipear "mvn -version"
+  # Descomprimir `*.zip` en C:
+  # Agregar la ruta de la carpeta `../bin` al PATH
+  # Abrir la consola y tipear "*`mvn -version`*"
